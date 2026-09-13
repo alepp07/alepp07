@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/alif-ascii-portrait.svg" width="620" alt="ASCII portrait of Alif Bin Effendi" />
+<img src="./assets/alif-ascii-portrait.svg" width="430" alt="ASCII portrait of Alif Bin Effendi" />
 
 # Alif Bin Effendi
 
