@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="./assets/alif-ascii-portrait.svg" width="430" alt="ASCII portrait of Alif Bin Effendi" />
-
-# Alif Bin Effendi
-
-**Artificial Intelligence graduate · Python developer**
-
-Malaysia · Deggendorf Institute of Technology, Germany
+<img src="./assets/alif-ascii-portrait.svg" width="100%" alt="Alif Bin Effendi — Artificial Intelligence and Python" />
 
 [Email](mailto:effendialif11@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alif-effendi-3101052ab/)
 
