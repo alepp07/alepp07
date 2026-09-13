@@ -13,28 +13,13 @@ Based in Malaysia · Graduate of Deggendorf Institute of Technology, Germany · 
 
 </div>
 
-```text
-           ALIF@GITHUB
-           ─────────────────────────────────────────
-               ...     Role       AI / ML Graduate
-           :XhHG@@#HhHh3Xi        Focus      Applied AI, RAG, NLP
-        :Xh#@@@@@@@@@@@@##GHA.     Languages  Python, Java, JavaScript
-      rHG##@@@@@@G#@@@@@@@@##G3.   Toolkit    PyTorch, TensorFlow, Git
-    iG########H3Xr3G@@@@@@@@@@@#r  Cloud      Docker, REST APIs, Render
-   r@@###GGH3r:.  :XhG#@@@@@@@@@@h:
-   3@@@@GH3r:      .iXH#@@@@@@@@@@r Status     Building useful AI systems
-    3@@GH3r:.        .:Xh#@@@@@@@3 Languages  Malay · English · German B2
-     ##XXrX3hhAi..:iX3hh3AA33@@@H
-     X3 .rr3H3Ai  r3hhHGHH3Xrh@@i
-      i    ...    :rrrXAXXiiihHAi
-                   ::      :rAAi
-       .      .::rXri.. .:iXXri
-       .:::.   .iirr:iirrXAAX:
-        :i:iiirrXXAAAAXXXAAA
-         :Xi .:rXXAXXXA33hhi
-          iri::iirrrXAhHHhAi
-           :rXA3hhhhhHhh3X:
-```
+<div align="center">
+
+<img src="./assets/alif-ascii-portrait.svg" width="640" alt="ASCII portrait of Alif Bin Effendi derived from his original photograph" />
+
+<sub>Portrait rendered deterministically from the original photograph using monospace characters.</sub>
+
+</div>
 
 ## About me
 
