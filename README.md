@@ -1,60 +1,67 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/131921170?v=4" width="150" alt="Alif Bin Effendi" />
+<img src="./assets/alif-ascii-portrait.svg" width="620" alt="ASCII portrait of Alif Bin Effendi" />
 
-# Hi, I'm Alif Bin Effendi
+# Alif Bin Effendi
 
-### Artificial Intelligence Graduate · Machine Learning · Intelligent Systems
+**Artificial Intelligence graduate · Python developer**
 
-Based in Malaysia · Graduate of Deggendorf Institute of Technology, Germany · Open to graduate and junior opportunities
+Malaysia · Deggendorf Institute of Technology, Germany
 
-[![Email](https://img.shields.io/badge/Email-effendialif11%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:effendialif11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-alepp07-181717?style=flat-square&logo=github)](https://github.com/alepp07)
-
-</div>
-
-<div align="center">
-
-<img src="./assets/alif-ascii-portrait.svg" width="640" alt="ASCII portrait of Alif Bin Effendi derived from his original photograph" />
-
-<sub>Portrait rendered deterministically from the original photograph using monospace characters.</sub>
+[Email](mailto:effendialif11@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alif-effendi-3101052ab/)
 
 </div>
 
-## About me
+## About
 
-I am an Artificial Intelligence graduate who enjoys turning machine-learning ideas into working products. My projects span retrieval-augmented generation, recommendation systems, computer vision, NLP, and assistive technology. I am especially interested in roles where I can combine solid software engineering with practical AI to solve real problems.
+I build applied machine-learning systems and the software around them. My recent work includes a deployed tool-calling RAG service, recommendation software, and conversational systems. I care about projects that run reliably outside a notebook: clear APIs, automated tests, sensible resource use, and documentation that another developer can follow.
 
-- 🎓 B.Sc. in Artificial Intelligence, Deggendorf Institute of Technology, Germany
-- 🧠 Interested in machine learning, generative AI, RAG, NLP, and computer vision
-- 🛠️ Comfortable taking projects from experimentation to API and cloud deployment
-- 🌏 International experience; working proficiency in English and German (B2)
+I completed my B.Sc. in Artificial Intelligence at Deggendorf Institute of Technology and am now based in Malaysia.
 
-## Featured projects
+## Selected work
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [Contextual Agent](https://github.com/alepp07/contextual-agent) | Conversational AI with contextual retrieval and a deployed API | Python, RAG, REST API, Render |
-| [Recommendation System](https://github.com/alepp07/recommendation-system) | Personalized ranking and applied machine-learning workflows | Python, ML, data analysis |
-| [Severity Classification](https://github.com/alepp07/severity-class-classification) | End-to-end supervised classification and model evaluation | Python, NLP, classification |
-| [Assistance System](https://github.com/alepp07/assistance-system) | AI-powered assistive application development | Python, computer vision, AI |
+### [Contextual Agent](https://github.com/alepp07/contextual-agent)
 
-## Technical toolbox
+A deployed FastAPI service that chooses between document retrieval, live web search, and exact calculation. It combines local ONNX embeddings with a tool-calling loop, network-free CI tests, and a Docker deployment designed around a 512 MB memory limit.
 
-**Languages:** Python · Java · JavaScript · SQL · HTML/CSS  
-**AI & Data:** Machine Learning · Deep Learning · NLP · Computer Vision · RAG · Data Analysis  
-**Engineering:** Git · REST APIs · Docker · Cloud Deployment · Linux
+`Python` `FastAPI` `RAG` `ONNX Runtime` `Docker` `GitHub Actions`
 
-## Currently
+### [Bookers](https://github.com/alepp07/recommendation-system)
 
-- Building production-minded AI projects and strengthening cloud engineering skills
-- Exploring robust RAG pipelines, evaluation, and agentic applications
-- Open to graduate and junior roles in AI/ML, data, and software engineering
+A desktop book discovery application built with PyQt6. I implemented the graphical interface, data visualisations, and supporting Python application logic; the project also includes title, author, year, publisher, and rating-based exploration.
 
-<div align="center">
+`Python` `PyQt6` `pandas` `Matplotlib` `scikit-learn`
 
-### Let's build something useful.
+### [ErasmusConnect+](https://github.com/alepp07/assistance-system)
 
-![Profile views](https://komarev.com/ghpvc/?username=alepp07&style=flat-square&color=0A66C2)
+A Rasa-based assistant for students navigating Erasmus study opportunities at TH Deggendorf. My work covered persona design, example dialogues, natural-language understanding, domain configuration, custom actions, and the Flask integration.
 
-</div>
+`Python` `Rasa` `Flask` `YAML`
+
+## Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="38" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" title="FastAPI" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="38" alt="PyTorch" title="PyTorch" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow" title="TensorFlow" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="38" alt="pandas" title="pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="38" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="38" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="38" alt="Linux" title="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="38" alt="Java" title="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript" />
+</p>
+
+**Languages:** Malay (native), English (professional), German (B2)
+
+I am open to graduate and junior roles in machine learning, data, and software engineering.
