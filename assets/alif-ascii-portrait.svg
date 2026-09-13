@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
 <defs><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#0b1a2c"/><stop offset="1" stop-color="#07111f"/></linearGradient></defs>
 <rect width="1500" height="420" rx="22" fill="url(#fade)"/>
-<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" font-weight="700" dominant-baseline="hanging">
+<g transform="translate(28 12) scale(0.69)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" font-weight="700" dominant-baseline="hanging">
 <text x="249" y="10" fill="#9a948e">=</text>
 <text x="256" y="10" fill="#8c8882">+</text>
 <text x="263" y="10" fill="#7c7a73">+</text>
