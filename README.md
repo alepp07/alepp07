@@ -32,6 +32,12 @@ A Rasa-based assistant for students navigating Erasmus study opportunities at TH
 
 `Python` `Rasa` `Flask` `YAML`
 
+## Certifications
+
+| Course | Issuer | Completed | Credential |
+|---|---|---|---|
+| SQL for Data Science | University of California, Davis (Coursera) | September 2026 | [Verify certificate](https://www.coursera.org/account/accomplishments/certificate/URXECASS3DTW) |
+
 ## Tools
 
 <p>
