@@ -47,6 +47,8 @@ A Rasa-based assistant for students navigating Erasmus study opportunities at TH
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="38" alt="Python" title="Python" />
   &nbsp;
+  <img src="./assets/sql.svg" height="38" alt="SQL" title="SQL" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" title="FastAPI" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="38" alt="PyTorch" title="PyTorch" />
