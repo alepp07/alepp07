@@ -37,7 +37,7 @@ A Rasa-based assistant for students navigating Erasmus study opportunities at TH
 **SQL for Data Science** — University of California, Davis (Coursera)
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/URXECASS3DTW">
-  <img src="./assets/sql-for-data-science-certificate.jpg" width="700" alt="SQL for Data Science certificate from University of California, Davis, awarded to Alif Muhammad Bin Effendi" />
+  <img src="./assets/sql-for-data-science-certificate.jpg" width="350" alt="SQL for Data Science certificate from University of California, Davis, awarded to Alif Muhammad Bin Effendi" />
 </a>
 
 [Verify certificate](https://www.coursera.org/account/accomplishments/certificate/URXECASS3DTW)
